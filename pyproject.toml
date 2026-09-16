@@ -20,7 +20,7 @@ dependencies = [
     "playwright>=1.52.0",
     "markdownify==1.1.0",
     "langchain-core==0.3.63",
-    "langchain-openai==0.3.18",
+    "langchain-openai==1.1.14",
     "langchain-anthropic==0.3.3",
     "langchain-ollama==0.3.0",
     "langchain-google-genai==2.1.2",
