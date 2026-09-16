@@ -34,7 +34,7 @@ dependencies = [
     "typing-extensions>=4.12.2",
     "psutil>=7.0.0",
     "faiss-cpu>=1.9.0",
-    "mem0ai==0.1.93",
+    "mem0ai==2.0.0b2",
     "uuid7>=0.1.0",
     "patchright>=1.52.4",
 ]
